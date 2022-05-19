@@ -3,17 +3,8 @@
 
 # Vim,Vimwiki
 
-自我成长
-
-- 整理行业关键词
-- 制作视频
-- me.Inc, 身体，俯卧撑
-- me.Inc, 身体，跑步1公里/天
-- me.Inc, 身体，常见病预防手册
-- me.Inc, 身体，对抗亚健康，保持精力充沛手册
-- me.Inc, 财富，人脉及见识维护手册
-- me.Inc, 家庭，
-- 
+-----
+ 
 - Linux, Git 文档管理
 - Linux, 邮件自动化
 - Linux, excel和SQL
